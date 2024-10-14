@@ -31,7 +31,14 @@ streamlit run <your-app_name>.py
 <h2>How to Use</h2>
 <ol>
   <li>Clone the repository or copy the code into your local project.</li>
-  <li>Set up your API key<br>  '''api_key = "YOUR_API_KEY"'''</li>
+  <li>Set up your API key<br>  
+    '''python
+    
+    api_key = "YOUR_API_KEY"
+    
+  '''
+    
+  </li>
   <li>Run the app locally<br> '''streamlit run your_script.py'''</li>
   <li>Open the Streamlit app in your browser</li>
 </ol>
