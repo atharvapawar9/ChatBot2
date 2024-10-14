@@ -15,7 +15,8 @@
     <li><b>Streamlit:</b> To install Streamlit, run: <br>
       '''bash
       
-      pip install streamlit'''
+      pip install streamlit
+'''
     
 </li>
     <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> '''pip install google-generativeai</li>
