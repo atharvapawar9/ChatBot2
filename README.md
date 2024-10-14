@@ -32,14 +32,18 @@ streamlit run <your-app_name>.py
 <ol>
   <li>Clone the repository or copy the code into your local project.</li>
   <li>Set up your API key<br>  
-    '''python
     
-    api_key = "YOUR_API_KEY"
-    
-  '''
+  ```python  
+api_key = "YOUR_API_KEY"
+  ```
     
   </li>
-  <li>Run the app locally<br> '''streamlit run your_script.py'''</li>
+  <li>Run the app locally<br> 
+    
+  ```bash  
+streamlit run <your-app_name>.py
+  ``` 
+</li>
   <li>Open the Streamlit app in your browser</li>
 </ol>
 <h2>Code Overview</h2>
