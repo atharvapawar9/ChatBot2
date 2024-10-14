@@ -12,7 +12,9 @@
 <p>
   <ul>
     <li>Python 3.7+ </li>
-    <li><b>Streamlit:</b> To install Streamlit, run: <br>'''pip install streamlit'''</li>
+    <li><b>Streamlit:</b> To install Streamlit, run: <br>'''bash
+      pip install streamlit
+      '''</li>
     <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> '''pip install google-generativeai</li>
   </ul>
 </p>
