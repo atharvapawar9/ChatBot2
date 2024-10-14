@@ -13,14 +13,14 @@
   <ul>
     <li>Python 3.7+ </li>
     <li><b>Streamlit:</b> To install Streamlit, run: <br>'''pip install streamlit'''</li>
-    <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> '''pip install google-generativeai'''</li>
+    <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> '''pip install google-generativeai</li>
   </ul>
 </p>
 <h2>How to Use</h2>
 <ol>
   <li>Clone the repository or copy the code into your local project.</li>
-  <li>Set up your API key<br>  ''' api_key = "YOUR_API_KEY"'''</li>
-  <li>Run the app locally<br> '''  streamlit run your_script.py'''</li>
+  <li>Set up your API key<br>  '''api_key = "YOUR_API_KEY"'''</li>
+  <li>Run the app locally<br> '''streamlit run your_script.py'''</li>
   <li>Open the Streamlit app in your browser</li>
 </ol>
 <h2>Code Overview</h2>
