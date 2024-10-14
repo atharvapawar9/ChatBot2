@@ -19,7 +19,13 @@ streamlit run <your-app_name>.py
   ```
     
 </li>
-    <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> '''pip install google-generativeai</li>
+    <li><b>Google Gemini AI SDK:</b> Install the required SDK with:<br> 
+      
+
+    pip install google-generativeai
+    
+    
+  </li>
   </ul>
 </p>
 <h2>How to Use</h2>
