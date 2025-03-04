@@ -15,7 +15,7 @@
     <li><b>Streamlit:</b> To install Streamlit, run: <br>
 
   ```bash  
-streamlit run <your-app_name>.py
+pip install streamlit
   ```
     
 </li>
